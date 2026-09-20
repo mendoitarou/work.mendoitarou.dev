@@ -42,6 +42,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: mdi-library-shelves,
             title: ライブラリ,
             items: [
                 {
@@ -52,6 +53,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-cube-outline,
             title: ソフトウェア,
             items: [
                 {
@@ -62,6 +64,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-server,
             title: デプロイ環境,
             items: [
                 {

@@ -41,6 +41,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-code-xml,
             title: 言語,
             items: [
                 {
@@ -51,6 +52,7 @@ cards: {
             ]
         },
         {
+            icon: material-symbols-developer-board,
             title: ハードウェア,
             items: [
                 {

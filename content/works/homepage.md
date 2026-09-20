@@ -39,6 +39,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-code-xml,
             title: フロントエンド,
             items: [
                 {
@@ -49,6 +50,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-library-shelves,
             title: ライブラリ,
             items: [
                 {

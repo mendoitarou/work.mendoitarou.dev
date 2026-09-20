@@ -51,6 +51,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-code-xml,
             title: 言語,
             items: [
                 {

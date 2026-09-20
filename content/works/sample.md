@@ -31,6 +31,94 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-code-xml,
+            title: 言語,
+            items: [
+                {
+                    icon: devicon-go,
+                    title: 'Go',
+                    description: 'Go言語の練習も兼ねて実装。'
+                }
+            ]
+        },
+        {
+            icon: material-symbols-computer-arrow-up-outline,
+            title: OS,
+            items: [
+                {
+                    icon: devicon-ubuntu,
+                    title: Ubuntu,
+                    description: ベースイメージ、OSとしてUbuntuを採用。
+                }
+            ]
+        },
+        {
+            icon: mdi-cube-outline,
+            title: アプリケーション,
+            items: [
+                {
+                    icon: material-symbols-machine-image,
+                    title: CCaslII(Linux版),
+                    description: 「COMETII」およびそのアセンブラ言語「CASLII」のシミュレータ。
+                }
+            ]
+        },
+        {
+            icon: mdi-cube-outline,
+            title: ソフトウェア,
+            items: [
+                {
+                    icon: material-symbols-voice-chat-outline,
+                    title: 'VOICE VOX',
+                    description: テキストチャット読み上げの音声合成に使用。
+                }
+            ]
+        },
+        {
+            icon: material-symbols-developer-board,
+            title: ハードウェア,
+            items: [
+                {
+                    icon: devicon-raspberrypi,
+                    title: 'RaspberryPi Zero WH',
+                    description: 小型でLinuxも動作するためちょうどよい。実際には余っていたので使用したのだが。
+                },
+                {
+                    icon: material-symbols-edit-document-outline,
+                    title: '電子ペーパー HAT',
+                    description: '一度描写すればしばらくは変更がないので電子ペーパーが適している。製品名: 「250x122, 2.13inch E-Ink display HAT for Raspberry Pi」'
+                }
+            ]
+        },
+        {
+            icon: material-symbols-iframe,
+            title: フレームワーク,
+            items: [
+                {
+                    icon: i-logos-nuxt-icon,
+                    title: Nuxt.js,
+                    description: モダンなWebページの作成を可能にするため採用
+                }
+            ]
+        },
+        {
+            icon: mdi-library-shelves,
+            title: ライブラリ,
+            items: [
+                {
+                    icon: i-logos-nuxt-icon,
+                    title: Nuxt UI,
+                    description: UIデザインをライブラリに任せることで、ページの内容に集中して開発が可能に
+                },
+                {
+                    icon: i-logos-nuxt-icon,
+                    title: Nuxt Content,
+                    description: 各ページのレイアウトを統一化、本文をMarkdownで表現可能に
+                }
+            ]
+        },
+        {
+            icon: material-symbols-code-xml,
             title: フロントエンド,
             items: [
                 {
@@ -41,6 +129,7 @@ cards: {
             ]
         },
         {
+            icon: material-symbols-code-xml,
             title: バックエンド,
             items: [
                 {
@@ -51,6 +140,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-server,
             title: デプロイ環境,
             items: [
                 {

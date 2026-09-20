@@ -41,6 +41,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-iframe,
             title: フレームワーク,
             items: [
                 {
@@ -51,6 +52,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-library-shelves,
             title: ライブラリ,
             items: [
                 {
