@@ -94,7 +94,7 @@ const navItems = ref<NavigationMenuItem[]>([
 
       <template #right>
         <UButton
-          to="https://home.mendoitarou.com/"
+          to="https://mendoitarou.dev/"
           target="_blank"
           icon="material-symbols-home"
           aria-label="HomePage"
