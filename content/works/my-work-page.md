@@ -14,11 +14,11 @@ category:
 headerLinks:
 - label: WebSite
   icon: material-symbols-two-pager
-  to: 'ttps://work.mendoitarou.com/'
+  to: 'ttps://work.mendoitarou.dev/'
   target: '_blank'
 - label: GitHub
   icon: i-simple-icons-github
-  to: 'https://github.com/mendoitarou/work.mendoitarou.com'
+  to: 'https://github.com/mendoitarou/work.mendoitarou.dev'
   target: '_blank'
 ---
 私、めんどい太郎がこれまでにやってきたことを紹介するWebページです。
@@ -41,6 +41,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-iframe,
             title: フレームワーク,
             items: [
                 {
@@ -51,6 +52,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-library-shelves,
             title: ライブラリ,
             items: [
                 {
@@ -62,6 +64,17 @@ cards: {
                     icon: i-logos-nuxt-icon,
                     title: Nuxt Content,
                     description: 各ページのレイアウトを統一化、本文をMarkdownで表現可能に
+                }
+            ]
+        },
+        {
+            icon: mdi-server,
+            title: デプロイ環境,
+            items: [
+                {
+                    icon: devicon-cloudflare,
+                    title: Cloudflare Pages,
+                    description: 'Cloudflare PagesでWebサイトを公開。'
                 }
             ]
         }

@@ -2,9 +2,9 @@
 
 [![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
 
-Source of https://work.mendoitarou.com/
+Source of https://work.mendoitarou.dev/
 
-Please click [here](https://work.mendoitarou.com/works/my-work-page) for more information about this page.
+Please click [here](https://work.mendoitarou.dev/works/my-work-page) for more information about this page.
 
 ## Setup
 

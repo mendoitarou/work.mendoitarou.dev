@@ -43,6 +43,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-computer-arrow-up-outline,
             title: OS,
             items: [
                 {
@@ -53,6 +54,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-cube-outline,
             title: アプリケーション,
             items: [
                 {

@@ -33,6 +33,7 @@ cards: {
     title: 使用技術,
     items: [
         {
+            icon: material-symbols-code-xml,
             title: フレームワーク,
             items: [
                 {
@@ -43,6 +44,7 @@ cards: {
             ]
         },
         {
+            icon: mdi-library-shelves,
             title: ライブラリ,
             items: [
                 {

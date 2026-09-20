@@ -21,8 +21,8 @@ useSeoMeta({
   description,
   ogTitle: title,
   ogDescription: description,
-  ogImage: 'https://work.mendoitarou.com/images/card-image.png',
-  twitterImage: 'https://work.mendoitarou.com/images/card-image.png',
+  ogImage: 'https://work.mendoitarou.dev/images/card-image.png',
+  twitterImage: 'https://work.mendoitarou.dev/images/card-image.png',
   twitterCard: 'summary_large_image'
 })
 
@@ -49,7 +49,7 @@ const navItems = ref<NavigationMenuItem[]>([
 <template>
   <UApp>
     <UBanner icon="ic-outline-announcement" color="warning" title="コンテンツは順次追加予定です！" />
-    <UBanner icon="i-lucide-info" title="めんどい太郎についてはホームページを参照してください。" to="https://home.mendoitarou.com/" target="_blank" close />
+    <UBanner icon="i-lucide-info" title="めんどい太郎についてはホームページを参照してください。" to="https://mendoitarou.dev/" target="_blank" close />
 
     <UHeader>
       <template #title>
@@ -64,7 +64,7 @@ const navItems = ref<NavigationMenuItem[]>([
         <UColorModeButton />
 
         <UButton
-          to="https://github.com/mendoitarou/work.mendoitarou.com"
+          to="https://github.com/mendoitarou/work.mendoitarou.dev"
           target="_blank"
           icon="i-simple-icons-github"
           aria-label="GitHub"
@@ -88,7 +88,7 @@ const navItems = ref<NavigationMenuItem[]>([
     <UFooter>
       <template #left>
         <p class="text-sm text-muted">
-          Built with Nuxt UI • © {{ new Date().getFullYear() }} <ULink to="https://home.mendoitarou.com/">mendoitarou_</ULink>
+          Built with Nuxt UI • © {{ new Date().getFullYear() }} <ULink to="https://mendoitarou.dev/">mendoitarou_</ULink>
         </p>
       </template>
 
