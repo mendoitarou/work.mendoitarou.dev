@@ -14,11 +14,11 @@ category:
 headerLinks:
 - label: WebSite
   icon: material-symbols-two-pager
-  to: 'ttps://work.mendoitarou.com/'
+  to: 'ttps://work.mendoitarou.dev/'
   target: '_blank'
 - label: GitHub
   icon: i-simple-icons-github
-  to: 'https://github.com/mendoitarou/work.mendoitarou.com'
+  to: 'https://github.com/mendoitarou/work.mendoitarou.dev'
   target: '_blank'
 ---
 私、めんどい太郎がこれまでにやってきたことを紹介するWebページです。
