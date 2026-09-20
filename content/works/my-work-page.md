@@ -66,6 +66,17 @@ cards: {
                     description: 各ページのレイアウトを統一化、本文をMarkdownで表現可能に
                 }
             ]
+        },
+        {
+            icon: mdi-server,
+            title: デプロイ環境,
+            items: [
+                {
+                    icon: devicon-cloudflare,
+                    title: Cloudflare Pages,
+                    description: 'Cloudflare PagesでWebサイトを公開。'
+                }
+            ]
         }
     ]
 }
